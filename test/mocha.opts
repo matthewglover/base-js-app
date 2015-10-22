@@ -1,0 +1,6 @@
+--ui bdd
+--reporter spec
+--recursive
+--compilers js:./mocha-babel
+--require ./test/config.js
+--watch
